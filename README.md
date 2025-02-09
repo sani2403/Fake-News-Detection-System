@@ -30,8 +30,7 @@ python Fake_News_Detection.py
 ```
 
 ## Results
-- **Logistic Regression** achieved the highest accuracy.
-- **TF-IDF with Logistic Regression** proved effective for fake news detection.
+- **Random Forest** achieved the highest accuracy.
 
 ## Future Enhancements
 - Implement **LSTM** or **BERT** models.
